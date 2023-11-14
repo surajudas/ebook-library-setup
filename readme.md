@@ -15,5 +15,8 @@ Ditched because the transfer speed is a roadblock
 Works over internet
 ![Success with rclone](3.png)
 
+## Showcase
+![working](working.png)
+
 optional: `rclone copy ~/.local/share/com.github.johnfactotum.Foliate books-library:/Foliate-data`
 to sync bookmarks, annotations, etc across devices with foliate
